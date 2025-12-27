@@ -1,4 +1,3 @@
-# oddo-hackathone
 # GearGuard – Maintenance Management System
 
 ## Problem Statement
